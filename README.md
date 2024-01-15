@@ -1,6 +1,6 @@
 # ultimate_forex_trade_bot
 
-"""_Project Brief_
+_Project Brief_
     
     This is a project to test the trading index boosting algorithm combined with level(previous high, low on daily time frame)
     This portion need to be tested:
@@ -25,8 +25,8 @@
     
     There can also be false signals, but since we only put short holdings on occational cases(still need to be determined)
     We will re-enter as long as there is enlarged volume with two sequential price increment where (close-open)/(high-low) > 1/2
-"""
-"""_Potential Directions_
+
+_Potential Directions_
     1. Different market regimes tends to have different patterns. Partitioning the market maybe can work.
     
     2. Different volatility may be combined with different likelyhood of breaking previous level. 
@@ -34,4 +34,4 @@
        Predicted opportunities combined with existing cases can be used to optimize maximize return and minimize max draw down of shorting position. 
     
     3. Decision tree can be something worth trying on making the decision. BUt this can be a validating signal.
-"""
+
