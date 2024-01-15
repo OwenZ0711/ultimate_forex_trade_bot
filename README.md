@@ -27,6 +27,7 @@ _Project Brief_
     We will re-enter as long as there is enlarged volume with two sequential price increment where (close-open)/(high-low) > 1/2
 
 _Potential Directions_
+
     1. Different market regimes tends to have different patterns. Partitioning the market maybe can work.
     
     2. Different volatility may be combined with different likelyhood of breaking previous level. 
